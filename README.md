@@ -1,7 +1,7 @@
 # Mahfil-app-test
 Test and report bugs for Mahfil mobile app.
-Test cases: 46
-Bug report contains bug/issue/defects: 8. 
+### Test cases: 46<br/>
+### Bug report contains bug/issue/defects: 8. <br/>
 
 ## Testing Environment:
 Mobile app platform: Android <br/>
