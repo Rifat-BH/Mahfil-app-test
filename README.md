@@ -1,4 +1,4 @@
-# Mahfil-app-test
+# Mahfil ( content streaming app )
 Test and report bugs for Mahfil mobile app.
 ### Test cases: 46<br/>
 ### Bug report contains bug/issue/defects: 8. <br/>
@@ -12,13 +12,13 @@ Mobile device or emulator: Ensure the availability of a suitable device or emula
 Test the user authentication process by verifying that users can successfully sign up and log in.<br/>
 Ensure that password recovery functionality, if available, works as expected.<br/>
 ## Content Categories:<br/>
-Explore and verify that content categories such as waz, nasheed, tilawat, Islamic shorts, short films, halal documentaries, and funny videos are accessible and correctly organized.<br/>
+Explore and verify that content categories such as Lecture, nasheed, Recitation, shorts, short films, documentaries, and funny videos are accessible and correctly organized.<br/>
 ## Video Streaming:<br/>
 Test the video streaming functionality for different types of content.<br/>
 Verify that videos load quickly and play smoothly without buffering issues.<br/>
 Check for features like pause, play, and autoplay.<br/>
 ## Unique Video Content:<br/>
-Verify that the content available on the app is unique and aligns with Islamic principles.<br/>
+Verify that the content available on the app is unique and aligns with principles.<br/>
 Check for any duplicate or inappropriate content.<br/>
 ## Download Functionality:<br/>
 Test the download functionality for videos.<br/>
@@ -41,5 +41,5 @@ Include steps to reproduce, expected and actual results, and screenshots if appl
 
 ## Note:<br/>
 Emphasize attention to detail, thorough testing, and clear communication in bug reporting.<br/>
-Assess the candidate's ability to explore different features of a mobile application and identify potential issues in the context of an Islamic content streaming app.<br/>
+Assess the candidate's ability to explore different features of a mobile application and identify potential issues in the context of a content streaming app.<br/>
 
