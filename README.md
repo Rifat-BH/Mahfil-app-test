@@ -42,8 +42,3 @@ Include steps to reproduce, expected and actual results, and screenshots if appl
 ## Note:<br/>
 Emphasize attention to detail, thorough testing, and clear communication in bug reporting.<br/>
 Assess the candidate's ability to explore different features of a mobile application and identify potential issues in the context of a content streaming app.<br/>
-
-[Mahfil App Testing Summary.pdf](https://github.com/user-attachments/files/15613150/Mahfil.App.Testing.Summary.pdf)
-
-[Mahfil App Testing Summary.docx](https://github.com/user-attachments/files/15613162/Mahfil.App.Testing.Summary.docx)
-
