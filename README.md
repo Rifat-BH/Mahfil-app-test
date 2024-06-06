@@ -45,4 +45,5 @@ Assess the candidate's ability to explore different features of a mobile applica
 
 [Mahfil App Testing Summary.pdf](https://github.com/user-attachments/files/15613150/Mahfil.App.Testing.Summary.pdf)
 
+[Mahfil App Testing Summary.docx](https://github.com/user-attachments/files/15613162/Mahfil.App.Testing.Summary.docx)
 
